@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "iHodeiBlogs",
+    "slug": "iHodeiBlogs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icono-iHodei_blancoconfondo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icono-iHodei_blancoconfondo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#044F8B"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icono-iHodei_blancoconfondo.png",
+        "backgroundColor": "#044F8B"
+      },
+      "package": "com.hodeicloud.iHodeiBlogs"
+    },
+    "web": {
+      "favicon": "./assets/Icono-ihodei.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2005056a-694f-4a8f-837c-ac55e0ef59b9"
+      }
+    },
+    "owner": "hodeicloud"
+  }
+}
